@@ -29,13 +29,34 @@ To run use <code>path where you've extracted StrawberryPerl\perl\bin\perl.exe pa
 
 <hr/>
 
-Read more: <br/>
-view-source:http://pi.dk/3/  <br/>
-https://www.gnu.org/software/parallel/  <br/>
-https://en.wikipedia.org/wiki/GNU_parallel/  <br/>
-https://savannah.gnu.org/projects/parallel/  <br/>
-https://www.gnu.org/software/parallel/man.html  <br/>
-https://books.google.co.il/books?id=sKdSDwAAQBAJ  <br/>
-https://www.gnu.org/software/parallel/parallel_tutorial.html  <br/>
-https://oletange.wordpress.com/2018/03/28/excuses-for-not-installing-gnu-parallel/ <br/>
- <br/>
+run <code>perl parallel --citation</code> to remove some of the extra-text of the program...
+<hr/>
+
+<pre>
+Read more: 
+
+installation:
+view-source:http://pi.dk/3/  
+
+program:
+https://www.gnu.org/software/parallel/  
+https://en.wikipedia.org/wiki/GNU_parallel/  
+https://savannah.gnu.org/projects/parallel/  
+https://oletange.wordpress.com/2018/03/28/excuses-for-not-installing-gnu-parallel/ 
+
+documents:
+https://www.gnu.org/software/parallel/man.html  
+
+book:
+https://books.google.com/books?id=sKdSDwAAQBAJ  
+https://books.google.com/books?id=S1ZGvgAACAAJ
+
+examples:
+https://www.gnu.org/software/parallel/parallel_tutorial.html  
+https://www.biostars.org/p/63816/ (for biology)
+http://figshare.com/articles/GNU_parallel_for_Bioinformatics_my_notebook/822138
+https://github.com/LangilleLab/microbiome_helper/wiki/Quick-Introduction-to-GNU-Parallel
+https://gist.github.com/Brainiarc7/7af2ab5e88ef238da2d9f36b4be203c0#file-gnu-parallel-bioinformatics-md
+https://www.slideshare.net/torstenseemann/parallel-computing-in-bioinformatics-tseemann-balti-bioinformatics-wed-10-sep-2014
+
+more generic information on data-science for-free: https://www.datacamp.com/
