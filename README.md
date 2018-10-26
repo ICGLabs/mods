@@ -79,6 +79,8 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="OfficeRemove/"      ><img width="24" height="24" alt="" src="OfficeRemove/resources/icon.png"      />&nbsp;OfficeRemove/</a><br/>
 <a href="ThinkPadUtilities/" ><img width="24" height="24" alt="" src="ThinkPadUtilities/resources/icon.png" />&nbsp;IBM/Lenovo ThinkPad - Utilities/</a><br/>
 <a href="TrayMinimizer/"     ><img width="24" height="24" alt="" src="TrayMinimizer/resources/icon.png"     />&nbsp;TrayMinimizer/</a><br/>
+<a href="TTFAutoHint/"       ><img width="24" height="24" alt="" src="TTFAutoHint/resources/icon.png"       />&nbsp;TTFAutoHint/</a><br/>
+<a href="UniExtract/"        ><img width="24" height="24" alt="" src="UniExtract/resources/icon.png"          />&nbsp;UniExtract/</a><br/>
 <a href="Unlocker/"          ><img width="24" height="24" alt="" src="Unlocker/resources/icon.png"          />&nbsp;Unlocker/</a><br/>
 <a href="VirtualDub2/"       ><img width="24" height="24" alt="" src="VirtualDub2/resources/icon.png"       />&nbsp;VirtualDub2/</a><br/>
 <a href="WinDirState/"       ><img width="24" height="24" alt="" src="WinDirState/resources/icon.png"       />&nbsp;WinDirState/</a><br/>

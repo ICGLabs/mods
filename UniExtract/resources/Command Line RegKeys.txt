@@ -1,0 +1,8 @@
+open with
+"D:\DOS\UniExtract\UniExtract.exe" "%1"
+
+extract to here
+"D:\DOS\UniExtract\UniExtract.exe" "%1" .
+
+extrack to sub folder
+"D:\DOS\UniExtract\UniExtract.exe" "%1" /sub
