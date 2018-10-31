@@ -11,3 +11,5 @@
 /GifSicle/*.gif
 
 /UniExtract/bin
+
+__pycache__
