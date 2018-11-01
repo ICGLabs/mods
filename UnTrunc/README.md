@@ -21,7 +21,7 @@ you may try mp4, mkv, (etc...)
 
 <hr/>
 
-try fixing the video using ffmpeg with <sup><em>(remove line-breaks..)</em></sup>:
+try fixing the video using this Windows-ffmpeg-command that accepts drag-and-drop of the video file <sup><em>(place it in a batch file, and remove line-breaks..)</em></sup>:
 <pre>
 ffmpeg -y -hide_banner -strict "experimental" -threads "16" 
 -flags "+low_delay+global_header+loop-unaligned-ilme-cgop-output_corrupt" 
@@ -34,3 +34,5 @@ ffmpeg -y -hide_banner -strict "experimental" -threads "16"
 -segment_time_metadata "1" -force_duplicated_matrix "1" 
 "%~dpn1_fixed%~x1" 
 </pre>
+
+you can then even try to move the metadata to the head of the file using <code>qtfaststart -l file.mp4</code>
