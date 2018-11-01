@@ -20,6 +20,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="7z/"                ><img width="24" height="24" alt="" src="7z/resources/icon.gif"                />&nbsp;7z/</a><br/>
 <a href="AAPT/"              ><img width="24" height="24" alt="" src="AAPT/resources/icon.png"              />&nbsp;AAPT/</a>  <sub><em>(and AAPT2. win/mac/linux)</em></sub><br/>
 <a href="Aria2/"             ><img width="24" height="24" alt="" src="Aria2/resources/icon.png"             />&nbsp;Aria2/</a><br/>
+<a href="AtomicParsley/"     ><img width="24" height="24" alt="" src="AtomicParsley/resources/icon.png"     />&nbsp;AtomicParsley/</a><br/>
 <a href="Audacity/"          ><img width="24" height="24" alt="" src="Audacity/resources/icon.png"          />&nbsp;Audacity/</a><br/>
 <a href="AWiconsPro/"        ><img width="24" height="24" alt="" src="AWiconsPro/resources/icon.png"        />&nbsp;AWiconsPro/</a><br/>
 <a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
@@ -82,6 +83,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="TTFAutoHint/"       ><img width="24" height="24" alt="" src="TTFAutoHint/resources/icon.png"       />&nbsp;TTFAutoHint/</a><br/>
 <a href="UniExtract/"        ><img width="24" height="24" alt="" src="UniExtract/resources/icon.png"          />&nbsp;UniExtract/</a><br/>
 <a href="Unlocker/"          ><img width="24" height="24" alt="" src="Unlocker/resources/icon.png"          />&nbsp;Unlocker/</a><br/>
+<a href="UnTrunc/"           ><img width="24" height="24" alt="" src="UnTrunc/resources/icon.png"           />&nbsp;UnTrunc/</a><br/>
 <a href="VirtualDub2/"       ><img width="24" height="24" alt="" src="VirtualDub2/resources/icon.png"       />&nbsp;VirtualDub2/</a><br/>
 <a href="WinDirState/"       ><img width="24" height="24" alt="" src="WinDirState/resources/icon.png"       />&nbsp;WinDirState/</a><br/>
 <a href="WinImage/"              ><img width="24" height="24" alt="" src="WinImage/resources/icon.png"                  />&nbsp;WinImage/</a><br/>
@@ -94,4 +96,10 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 
 
 <br/>
-<a href="https://github.com/eladkarako/partial-download-github-repository">How To Download A Single Folder?</a>
+
+Download A Single Folder:
+First, download https://github.com/eladkarako/github-partial-get/archive/master.zip <br/>
+extract it and run <code>github_partial_get.cmd</code>, <br/>
+visit one of the folders in the mods-project, then copy the URL from the browser to the batch file. <br/>
+See more information in https://github.com/eladkarako/github-partial-get .
+
