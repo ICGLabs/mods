@@ -82,3 +82,16 @@ For file-level options and padding info: see --file-help
 Setting custom private tag extensions: see --uuid-help
 Setting ID3 tags onto mpeg-4 files: see --ID3-help
 </pre>
+
+<hr/>
+
+<pre>
+Version 0.9.6
+- CMake Build scripts.
+- Option to output MP4 atoms as XML.
+- Added support for 1080p iTunes atoms (--hdvideo option also takes a number)
+- Added --flavor option for setting flvr atom.
+- Allow sort order fields to be set in the format of --sortOrder name=value 
+- Added missing sort albumn option
+- Added option for setting plID atom
+</pre>
